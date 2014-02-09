@@ -1,4 +1,4 @@
-#Intenter Explorer Manage
+#Internet Explorer Manage
 ```PS
 IEä¯ÀÀÆ÷¹ÜÀí
 ```
