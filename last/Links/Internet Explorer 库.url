@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://www.iegallery.com/zh-cn/Addons/Details/851
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.iegallery.com/zh-cn/Addons/
+IDList=
+IconFile=http://www.iegallery.com/favicon.ico
+IconIndex=1
+HotKey=0
